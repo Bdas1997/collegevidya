@@ -1,0 +1,12 @@
+Admin Auth
+username =admin
+password = 123
+
+User Auth 
+username = bikash@gmail.com
+password = 123
+
+link = localhost/collegevidya/index.php -> For Admin / User
+
+link = localhost/collegevidya/account_signup.php -> Account OPEN
+
